@@ -1,0 +1,14 @@
+{
+    "sqlConfig": {
+        "user": "DatabaseViewer",
+	    "password": "db"
+    },
+    "testerConfig": {
+        "user": "tester1",
+	    "password": "0lenj0un0htanutsen!"
+    },
+    "orwellSqlConfig": {
+        "user": "Orwell_viewer",
+	    "password": "viewer"
+    }
+}
